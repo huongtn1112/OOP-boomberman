@@ -1,0 +1,33 @@
+
+Player1.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+down
+  rotate: false
+  xy: 1, 487
+  size: 640, 160
+  orig: 640, 160
+  offset: 0, 0
+  index: 1
+left
+  rotate: false
+  xy: 1, 325
+  size: 640, 160
+  orig: 640, 160
+  offset: 0, 0
+  index: 1
+right
+  rotate: false
+  xy: 1, 163
+  size: 640, 160
+  orig: 640, 160
+  offset: 0, 0
+  index: 1
+up
+  rotate: false
+  xy: 1, 1
+  size: 640, 160
+  orig: 640, 160
+  offset: 0, 0
+  index: 1

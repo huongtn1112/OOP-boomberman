@@ -1,0 +1,19 @@
+
+Mario.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+big_mario
+  rotate: false
+  xy: 1, 23
+  size: 336, 35
+  orig: 336, 35
+  offset: 0, 0
+  index: -1
+small_mario
+  rotate: false
+  xy: 1, 1
+  size: 128, 20
+  orig: 128, 20
+  offset: 0, 0
+  index: -1
